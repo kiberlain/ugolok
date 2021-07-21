@@ -1,11 +1,11 @@
 {
-  "name": "@hyas/doks",
-  "description": "Doks theme",
+  "name": "ugolok",
+  "description": "Technical information",
   "version": "0.3.3",
   "browserslist": [
     "defaults"
   ],
-  "repository": "https://github.com/h-enk/doks",
+  "repository": "https://github.com/kiberlain/ugolok",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
