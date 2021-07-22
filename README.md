@@ -28,6 +28,6 @@ npm run build
 ```
 Отправить на netlify
 ```bash
-git add . && git commit -m "commit" && git push
+git add . && git commit -m "some commit" && git push
 
 ```
